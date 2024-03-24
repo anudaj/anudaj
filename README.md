@@ -17,7 +17,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Anuda Danthanarayana</a></b>
+                <b><a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Anuda Danthanarayana</a>&#128075;</b>
         </samp>
 </h3>
 
@@ -26,7 +26,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Anuda+Danthanarayana">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Sri Lanka</b> 」
+    「 I am a full stack web application developer from <b>Sri Lanka</b> &#x1F1F1;&#x1F1F0;」
     <br>
     <br>
   </samp>
